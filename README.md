@@ -64,7 +64,7 @@ Source: Kaggle
 - Iris Virginica
 Total Samples: 150
 
-### Outcome :
+### Outcomes :
 1. Successfully built a machine learning model to classify Iris flowers with over 95% accuracy.
 2. Random Forest Classifier showed the best performance with balanced precision and recall.
 3. Gained hands-on experience in the complete machine learning workflow: data preprocessing, training, tuning, and evaluating.
